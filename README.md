@@ -9,7 +9,7 @@ This Hotel Management System is designed to facilitate the management of hotel o
 - **Room Management**: Manage room assignments and calculate room rent based on room type and duration of stay.
 - **Financial Reporting**: Generate total bills for customers, facilitating easy checkout processes.
 
-## Technologies Used
+## What's Needed to Execute:
 - **Python**: The main programming language used.
 - **MySQL**: Used for database management to store all customer and transaction data.
 - **MySQL Connector Python**: A library used to connect the Python application to the MySQL database.
